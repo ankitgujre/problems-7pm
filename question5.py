@@ -8,4 +8,4 @@ if a >= "A" and a <= "Z" or a >= "a" and a <= "z":
 elif a >= "0" and a <= "9":
     print(a, "is a digit.")
 else:
-    print(a, "is a special character.")
+    print(a, "is a special character.") 
